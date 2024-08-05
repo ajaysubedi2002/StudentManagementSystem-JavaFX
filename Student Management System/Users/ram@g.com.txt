@@ -1,0 +1,7 @@
+UserID: K006
+Email: ram@g.com
+Name: Ram Bahadur
+Password: ram123
+Phone: 123456789
+Gender: Male
+userType: Student

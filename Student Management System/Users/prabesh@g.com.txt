@@ -1,0 +1,7 @@
+UserID: K002
+Email: prabesh@g.com
+Name: Prabesh Bhandari
+Password: prabesh123
+Phone: 1234567890
+Gender: Male
+userType: Student

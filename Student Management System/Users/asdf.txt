@@ -1,0 +1,7 @@
+UserID: K004
+Email: asdf
+Name:  asdjhf asdf
+Password: sadgf
+Phone: asdg
+Gender: Male
+userType: Student

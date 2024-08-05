@@ -1,0 +1,7 @@
+UserID: K003
+Email: samir@g.com
+Name: Samir Guragain
+Password: samir123
+Phone: 1234567890
+Gender: Male
+userType: Student

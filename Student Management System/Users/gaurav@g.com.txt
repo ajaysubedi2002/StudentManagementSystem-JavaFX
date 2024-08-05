@@ -1,0 +1,7 @@
+UserID: K001
+Email: gaurav@g.com
+Name: Gaurav Karki
+Password: gaurav123
+Phone: 1234567890
+Gender: Male
+userType: Student

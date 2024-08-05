@@ -1,0 +1,7 @@
+UserID: K005
+Email: bale@g.com
+Name: Balaram Katuwal
+Password: bale123
+Phone: 12345678
+Gender: Male
+userType: Student
